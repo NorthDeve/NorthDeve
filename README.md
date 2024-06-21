@@ -1,7 +1,7 @@
 🌴Devenia
-Too cool for school
-(im kidding) 
-🤓
+1. Too cool for school
+2. (im kidding)
+3. 🤓
 
 <!--
 **NorthDeve/NorthDeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

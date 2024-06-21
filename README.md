@@ -1,9 +1,7 @@
-- Heya follow GitHubians!
-- test
-- Test
-- testttt
-- Test1
-- Test2
+🌴Devenia
+Too cool for school
+(im kidding) 
+🤓
 
 <!--
 **NorthDeve/NorthDeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

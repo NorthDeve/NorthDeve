@@ -1,19 +1,10 @@
-🌴Devenia
-1. Too cool for school
-2. (im kidding)
-3. 🤓
+name = str(input("Name: "))
+aura = float(input("Aura: "))
+if aura >10000 or ==10000:
+  print("-> name, is the best")
+elif:
+  print("Thys aura is alaways above 10000. Proceed.")
+else:
+  print("Thy is still the best")
 
-<!--
-**NorthDeve/NorthDeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Action Failed.

@@ -6,8 +6,8 @@
 6.       else:
 7.         print("Devenia is still the best")
 8.     else:
-9.       print("Action Failed. You are not welocme to use this system. Teehee!")
+9.       print("Action Failed. You are not welocme to use this system.")
 
 
 Use my system:3 
-- Python!!
+- Python
